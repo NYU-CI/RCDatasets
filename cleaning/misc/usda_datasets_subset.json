@@ -1,0 +1,42 @@
+
+  [{
+    "dataset_name": "Eating and Health Module"
+    ,"alias": ["EHM","Eating & Health Module"]
+    }
+    ,
+    {
+    "dataset_name": "Flexible Consumer Behavior Survey"
+    ,"alias": ["FCBS"]
+    }	
+    ,
+    {
+      "dataset_name": "Linkages"
+      ,"alias": ["PPC","PPFPT"]
+    }	
+    ,
+    {
+      "dataset_name": "IRI"
+      ,"alias": ["IRI Consumer Network","Consumer Network","IRI Infoscan","Infoscan"
+      ,"scanner data", "retail scanner data", "household scanner data"]
+    }	
+    ,
+      
+    {
+      "dataset_name": "TDLinx"
+      ,"alias": "Nielsen TDLinx" 
+    }	
+    ,
+    {
+      "dataset_name": "FoodAPS"
+      ,"alias": ["National Household Food Acquisition and Purchase Survey"]
+    }	
+    ,
+      {
+      "dataset_name": "NPD Recount"
+    }
+    ,
+    {
+      "dataset_name": "Food Security Data"
+      ,"alias": ["NHANES-FSQ","CPS-FSQ","NHIS-FFS","FSSM"]
+    }
+]

@@ -1,0 +1,388 @@
+﻿Reference Type:  Conference Paper
+Record Number: 676
+Author: Bemile, E. and Anders, S.
+Year: 2014
+Title: Linking Diet-Health Behaviour and Obesity using Propensity Score Matching
+Conference Name: EAAE 2014 Congress ‘Agri-Food and Rural Innovations for Healthier Societies’
+Conference Location: Ljubljana, Slovenia
+Date: August 26-29, 2014
+Keywords: Propensity Score Matching
+Diet and Health Behavior
+Dietary Supplements
+Obesity
+Healthy Eating Index-2010
+NHANES-FSQ
+Analyzed
+Abstract: This paper quantifies the impact of consumer’s diet-health behaviours on an important health outcome. We use data from the 2007-2008 U.S. NHANES to estimate the impact of dietary supplement intake on respondent’s BMI outcomes, controlling for diet quality using Healthy Eating Index scores. The analysis applies propensity score matching (PSM) to account for selection bias and endogeneity between self-reported diet and health behaviour (treatment) and BMI outcomes. Dietary supplement choices are explained by demographic, lifestyle, food culture and food security variables. Matching results suggest that regular dietary supplement consumption is associated with significant lower BMI outcomes of almost 1 kg/m2.
+URL: https://tind-customer-agecon.s3.amazonaws.com/75de4939-3d5e-4685-bbad-5ca67e653ed4?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Diet_Health_Behaviour_and_Obesity_Bemile_Anders_EAAE.pdf&response-content-type=application%2Fpdf&AWSAccessKeyId=AKIAXL7W7Q3XHXDVDQYS&Expires=1564433155&Signature=YQc6n4aG5EQHuivLHvDg3FCmRzc%3D
+'File' Attachments: internal-pdf://3816674348/Bemile & Anders (2014).pdf
+
+
+Reference Type:  Journal Article
+Record Number: 357
+Author: Bhargava, V. and Lee, J. S.
+Year: 2016
+Title: Food Insecurity and Health Care Utilization Among Older Adults in the United States
+Journal: J Nutr Gerontol Geriatr
+Volume: 35
+Issue: 3
+Pages: 177-92
+Date: Jul-Sep
+Short Title: Food Insecurity and Health Care Utilization Among Older Adults in the United States
+Alternate Journal: Journal of nutrition in gerontology and geriatrics
+ISSN: 2155-1200 (Electronic)
+2155-1200 (Linking)
+DOI: 10.1080/21551197.2016.1200334
+Accession Number: 27559853
+Keywords: Aged
+Emergency Medical Services
+Family Characteristics
+Female
+Food Supply
+Health Services for the Aged
+Health Status
+House Calls
+Humans
+Male
+Office Visits
+Patient Admission
+Surveys and Questionnaires
+United States
+NHANES-FSQ
+Analyzed
+NonE Tier 3
+Abstract: This study examined the relationships between food insecurity and utilization of four health services among older Americans: office visits, inpatient hospital nights, emergency department visits, and home health care. Nationally representative data from the 2011 and 2012 National Health Interview Survey were used (N = 13,589). Nearly 83.0% of the sample had two or more office visits, 17.0% reported at least one hospital night, 23.0% had at least one emergency room visit, and 8.1% used home health care during the past 12 months. Adjusting for confounders, food-insecure older adults had higher odds of using more office visits, inpatient hospital nights, and emergency department visits than food-secure older adults, but similar odds of home health care utilization. The findings of this study suggest that programs and policies aimed at reducing food insecurity among older adults may have a potential to reduce utilization of health care services.
+Notes: Bhargava, Vibha
+Lee, Jung Sun
+eng
+2016/08/26 06:00
+J Nutr Gerontol Geriatr. 2016 Jul-Sep;35(3):177-92. doi: 10.1080/21551197.2016.1200334.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/27559853
+'File' Attachments: internal-pdf://0959160680/Bhargava & Lee (2016).pdf
+Author Address: a Department of Financial Planning, Housing and Consumer Economics , University of Georgia , Athens , Georgia , USA.
+b Department of Foods and Nutrition , University of Georgia , Athens , Georgia , USA.
+
+
+Reference Type:  Journal Article
+Record Number: 445
+Author: Chang, Y. and Haley, H.
+Year: 2018
+Title: Food Insecurity and Perceived Diet Quality Among Low-Income Older Americans with Functional Limitations
+Journal: Journal of nutrition education and behavior. Society for Nutrition Education and Behavior
+Volume: 50
+Issue: 5
+Pages: 476-484
+Short Title: Food Insecurity and Perceived Diet Quality Among Low-Income Older Americans with Functional Limitations
+ISSN: 14994046
+DOI: doi.org/10.1016/j.jneb.2017.09.006
+Keywords: Americans 
+Cross-Sectional Studies
+Diet
+Elderly 
+Food Security
+Foods
+Health Services  
+Low-Income Population
+Nutritional Adequacy 
+NHANES-FSQ
+Analyzed
+NonE Tier 2
+Abstract: OBJECTIVE: To evaluate how functional limitations are associated with food insecurity and perceived diet quality in low-income older Americans. DESIGN: Nationwide repeated cross-sectional surveys regarding health and nutritional status. SETTING: The National Health and Nutrition Examination Surveys, 2007-2008, 2009-2010, and 2011-2012. PARTICIPANTS: Individuals aged ≥65 years with household incomes ≤130% of the federal poverty level (n = 1,323). MAIN OUTCOME MEASURES: Dependent variables included dichotomous indicators of food insecurity and poor-quality diet, measured with the household food security survey module and respondents' own ratings, respectively. Independent variable was presence of limitations in physical functioning. ANALYSIS: Weighted logistic regressions with nested controls and interaction terms. RESULTS: Functional limitations in low-income older adults were associated with 1.69 times higher odds of food insecurity (P < .01) and 1.65 times higher odds of poor-quality diet (P < .01) after accounting for individuals' health care needs and socioeconomic conditions. These associations were greatest among those living alone (odds ratio = 3.38 for food insecurity; 3.07 for poor-quality diet; P < .05) and smallest among those living with a partner. CONCLUSIONS AND IMPLICATIONS: Low-income older adults who live alone with functional limitations are exposed to significant nutritional risk. Resources should be directed to facilitating their physical access to healthful foods.
+
+
+Reference Type:  Journal Article
+Record Number: 448
+Author: Chi, D. L., Dinh, M. A., da Fonseca, M. A., Scott, J. M. and Carle, A. C.
+Year: 2015
+Title: Dietary Research to Reduce Children's Oral Health Disparities: An Exploratory Cross-Sectional Analysis of Socioeconomic Status, Food Insecurity, and Fast-Food Consumption
+Journal: J Acad Nutr Diet
+Volume: 115
+Issue: 10
+Pages: 1599-604
+Date: Oct
+Short Title: Dietary Research to Reduce Children's Oral Health Disparities: An Exploratory Cross-Sectional Analysis of Socioeconomic Status, Food Insecurity, and Fast-Food Consumption
+Alternate Journal: Journal of the Academy of Nutrition and Dietetics
+ISSN: 2212-2672 (Print)
+2212-2672 (Linking)
+DOI: 10.1016/j.jand.2015.02.011
+PMCID: 4584160
+Accession Number: 25840937
+Keywords: Adolescent
+Adult
+Cross-Sectional Studies
+Dental Caries
+Family Characteristics
+Fast Foods
+Feeding Behavior
+Female
+Food Supply
+Health Status Disparities
+Humans
+Male
+Medicaid
+Middle Aged
+Nutrition Surveys
+Oral Health
+Self Report
+Socioeconomic Factors
+United States
+NHANES-FSQ
+Citation
+FSSM
+NonE Tier 1
+Abstract: BACKGROUND: Tooth decay is the most common childhood disease and it disproportionately affects low-income children. The dietary risk factors associated with socioeconomic status (SES), such as food insecurity and fast-food consumption, are poorly understood. OBJECTIVE: To better understand how upstream social factors are related to dietary behaviors by testing the hypothesis that food insecurity mediates the SES-fast-food consumption relationship. DESIGN: A 36-item survey was administered to caregivers of children younger than age 18 years (n=212). The predictor variable was SES, measured by whether the child was insured by Medicaid (no/yes). Food insecurity, the potential dietary mediator, was measured using the six-item US Department of Agriculture Household Food Security Survey (food secure/food insecure without hunger/food insecure with hunger). The outcome variable was whether the household reported eating at a fast-food restaurant >/=2 times a week (no/yes). We used logistic structural equation and mediation models to test our hypothesis. RESULTS: About 63% of children were classified as low SES. Thirty percent of caregivers reported food insecurity (with or without hunger) and 18.6% of households consumed fast food >/=2 times per week. Lower SES was significantly associated with food insecurity (odds ratio [OR] 3.03, 95% CI 1.51 to 6.04; P=0.002), but SES was not related to fast-food consumption (OR 1.94, 95% CI 0.86 to 4.36; P=0.11). Food insecurity was not associated with fast-food consumption (OR 1.76, 95% CI 0.86 to 3.62; P=0.12). The mediation analyses suggest food insecurity does not mediate the relationship between SES and fast-food consumption. However, there are important potential differences in fast-food consumption by SES and food insecurity status. CONCLUSIONS: Future dietary research focusing on tooth decay prevention in vulnerable children may need to account for the differential effects of SES on food insecurity and dietary behaviors like fast-food consumption. Studies are needed to further elucidate the mechanisms linking SES, dietary behaviors, and tooth decay in children.
+Notes: Chi, Donald L
+Dinh, Mai A
+da Fonseca, Marcio A
+Scott, JoAnna M
+Carle, Adam C
+eng
+K08 DE020856/DE/NIDCR NIH HHS/
+K08DE020856/DE/NIDCR NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2015/04/05 06:00
+J Acad Nutr Diet. 2015 Oct;115(10):1599-604. doi: 10.1016/j.jand.2015.02.011. Epub 2015 Apr 1.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/25840937
+'File' Attachments: internal-pdf://0427792803/Chi, Dinh, de Fonseca, Scott, & Carle (2015).pdf
+
+
+Reference Type:  Journal Article
+Record Number: 266
+Author: Chi, D. L., Masterson, E. E., Carle, A. C., Mancl, L. A. and Coldwell, S. E.
+Year: 2014
+Title: Socioeconomic status, food security, and dental caries in US children: mediation analyses of data from the National Health and Nutrition Examination Survey, 2007-2008
+Journal: Am J Public Health
+Volume: 104
+Issue: 5
+Pages: 860-4
+Date: May
+Short Title: Socioeconomic status, food security, and dental caries in US children: mediation analyses of data from the National Health and Nutrition Examination Survey, 2007-2008
+Alternate Journal: American journal of public health
+ISSN: 1541-0048 (Electronic)
+0090-0036 (Linking)
+DOI: 10.2105/AJPH.2013.301699
+PMCID: 3987603
+Accession Number: 24625141
+Keywords: Adolescent
+Child
+Cross-Sectional Studies
+Dental Caries
+Diet
+Female
+Health Status
+Humans
+Male
+Nutrition Surveys
+Poverty
+Socioeconomic Factors
+United States/epidemiology
+NHANES-FSQ
+Analyzed
+NonE Tier 1
+Abstract: OBJECTIVES: We examined associations of household socioeconomic status (SES) and food security with children's oral health outcomes. METHODS: We analyzed 2007 and 2008 US National Health and Nutrition Examination Survey data for children aged 5 to 17 years (n = 2206) to examine the relationship between food security and untreated dental caries and to assess whether food security mediates the SES-caries relationship. RESULTS: About 20.1% of children had untreated caries. Most households had full food security (62%); 13% had marginal, 17% had low, and 8% had very low food security. Higher SES was associated with significantly lower caries prevalence (prevalence ratio [PR] = 0.77; 95% confidence interval = 0.63, 0.94; P = .01). Children from households with low or very low food security had significantly higher caries prevalence (PR = 2.00 and PR = 1.70, respectively) than did children living in fully food-secure households. Caries prevalence did not differ among children from fully and marginally food-secure households (P = .17). Food insecurity did not appear to mediate the SES-caries relationship. CONCLUSIONS: Interventions and policies to ensure food security may help address the US pediatric caries epidemic.
+Notes: Chi, Donald L
+Masterson, Erin E
+Carle, Adam C
+Mancl, Lloyd A
+Coldwell, Susan E
+eng
+K08 DE020856/DE/NIDCR NIH HHS/
+L60MD003921/MD/NIMHD NIH HHS/
+L60 MD003921/MD/NIMHD NIH HHS/
+T90DE021884/DE/NIDCR NIH HHS/
+T90 DE021984/DE/NIDCR NIH HHS/
+U54DE019346/DE/NIDCR NIH HHS/
+K08DE020856/DE/NIDCR NIH HHS/
+U54 DE019346/DE/NIDCR NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2014/03/15 06:00
+Am J Public Health. 2014 May;104(5):860-4. doi: 10.2105/AJPH.2013.301699. Epub 2014 Mar 13.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24625141
+'File' Attachments: internal-pdf://0733713016/Chi, Masterson, Carle, Manci, & Coldwell (2014.pdf
+Author Address: Donald L. Chi, Erin E. Masterson, Lloyd A. Mancl, and Susan E. Coldwell are with the Department of Oral Health Sciences, School of Dentistry, University of Washington, Seattle. Adam C. Carle is with the Department of Pediatrics, School of Medicine, and the Department of Psychology, College of Arts and Sciences, University of Cincinnati, Cincinnati, OH.
+
+
+Reference Type:  Journal Article
+Record Number: 598
+Author: Choi, S. K., Fram, M. S. and Frongillo, E. A.
+Year: 2017
+Title: Very Low Food Security in US Households Is Predicted by Complex Patterns of Health, Economics, and Service Participation
+Journal: J Nutr
+Volume: 147
+Issue: 10
+Pages: 1992-2000
+Date: Oct
+Short Title: Very Low Food Security in US Households Is Predicted by Complex Patterns of Health, Economics, and Service Participation
+Alternate Journal: The Journal of nutrition
+ISSN: 1541-6100 (Electronic)
+0022-3166 (Linking)
+DOI: 10.3945/jn.117.253179
+Accession Number: 28855422
+Keywords: Adolescent
+Adult
+Aged
+Child
+Delivery of Health Care
+Diet
+Family Characteristics
+Female
+Food Assistance
+Food Supply
+Health Status
+Humans
+Income
+Male
+Middle Aged
+Nutritional Status
+Poverty
+Regression Analysis
+Surveys and Questionnaires
+United States
+Young Adult
+CPS-FSS
+NHIS-FSS
+NHANES-FSQ
+Analyzed
+FSSM
+NonE Tier 1
+Abstract: Background: Very low food security (VLFS) happens at the intersection of nuanced and complex patterns of risk characteristics across multiple domains. Little is known about the idiosyncratic situations that lead households to experience VLFS.Objective: We used classification and regression tree (CART) analysis, which can handle complex combinations of predictors, to identify patterns of characteristics that distinguish VLFS households in the United States from other households.Methods: Data came from 3 surveys, the 2011-2014 National Health Interview Survey (NHIS), the 2005-2012 NHANES, and the 2002-2012 Current Population Survey (CPS), with sample participants aged >/=18 y and households with income <300% of the federal poverty line. Survey participants were stratified into households with children, adult-only households, and older-adult households (NHIS, CPS) or individuals aged 18-64 y and individuals aged >/=65 y (NHANES). Household food security was measured with the use of the 10-item US Adult Food Security Scale. Variables from multiple domains, including sociodemographic characteristics, health, health care, and participation in social welfare and food assistance programs, were considered as predictors. The 3 data sources were analyzed separately with the use of CART analysis.Results: Household experiences of VLFS were associated with different predictors for different types of households and often occurred at the intersection of multiple characteristics spanning unmet medical needs, poor health, disability, limitation, depressive symptoms, low income, and food assistance program participation. These predictors built complex trees with various combinations in different types of households.Conclusions: This study showed that multiple characteristics across multiple domains distinguished VLFS households. Flexible and nonlinear methods focusing on a wide range of risk characteristics should be used to identify VLFS households and to inform policies and programs that can address VLFS households' various needs.
+Notes: Choi, Seul Ki
+Fram, Maryah S
+Frongillo, Edward A
+eng
+Research Support, U.S. Gov't, Non-P.H.S.
+2017/09/01 06:00
+J Nutr. 2017 Oct;147(10):1992-2000. doi: 10.3945/jn.117.253179. Epub 2017 Aug 30.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/28855422
+'File' Attachments: internal-pdf://2136382193/Choi, Fram, & Frongillo (2017).pdf
+Author Address: Department of Health Promotion, Education, and Behavior, Arnold School of Public Health, University of South Carolina, Columbia, SC; and.
+College of Social Work, University of South Carolina, Columbia, SC.
+Department of Health Promotion, Education, and Behavior, Arnold School of Public Health, University of South Carolina, Columbia, SC; and efrongillo@sc.edu.
+
+
+Reference Type:  Government Document
+Record Number: 547
+Author: Coleman-Jensen, A., Rabbitt, M. P. and Gregory, C. A.
+Year: 2017
+Title: Examining an “Experimental” Food-Security-Status Classification Method for Households With Children
+Department: Service, United States Department of Agriculture Economic Research
+Report Number: ERR-1945
+Keywords: Food Security
+Food Insecurity
+Food security measurement
+Rasch Modeling
+Item Response Theory
+Food Sufficiency
+Food Pantry
+Dietary Quality
+NHANES-FSQ
+CPS-FSS
+Analyzed
+Chart
+Abstract: Food security, which USDA has measured and tracked since 1995, has become a key national measure of well-being; therefore, it is important that the measure is accurate. Since the food security measure was developed, USDA, Economic Research Service (ERS) has conducted ongoing research on the statistical properties of the measure. ERS researchers have developed an alternative “experimental” classification method for classifying food security status in households with children. This alternative approach reduces statistical biases inherent in the current classification approach and improves fit to the Rasch measurement model and its assumptions. Here, ERS evaluates how well the foodsecurity-status categories correlate with other food inadequacy and nutritional indicators. The researchers examine whether the experimental classification or the current classification is more consistent with indicators of “food inadequacy,” defined here as food insufficiency, unmet food needs, and use of a food pantry. ERS also examines the association between each of the two food-security-classification methods and dietary quality. Results show that the current classification is more consistent with indicators of food inadequacy. The report includes guidance for researchers using USDA’s food security measure.
+URL: https://www.ers.usda.gov/webdocs/publications/85215/tb-1945.pdf?v=0
+'File' Attachments: internal-pdf://2110772887/Coleman-Jensen, Rabbitt, & Gregory (2017).pdf
+
+
+Reference Type:  Government Document
+Record Number: 677
+Author: Condon, E., Drilea, S., Jowers, K., Lichtenstein, C., Mabli, J., Madden, E. and Niland, K.
+Year: 2015
+Title: Diet Quality of Americans by SNAP Participation Status: Data from the National Health and Nutrition Examination Survey, 2007–2010
+Department: Service, United States Department of Agriculture Food and Nutrition
+Publisher: Prepared by Walter R. McDonald & Associates, Inc. and Mathematica Policy Research
+Series Title: Nutrition Assistance Program Report
+Keywords: Nutrition Assistance Program
+SNAP
+SNAP Participation
+Diet Quality
+NHANES-FSQ
+Analyzed
+Abstract: Over time, nutrition assistance programs have expanded their focus from ensuring that program
+participants have enough to eat to improving the quality of the foods participants can access with
+program benefits. This shift reflects a growing consensus about the important role diet plays in
+the development of chronic diseases, including obesity. This shift also reflects the recognition that
+benefits provided by nutrition assistance programs should reflect Federal nutrition policy, which
+is established in the Dietary Guidelines for Americans. The Supplemental Nutrition Assistance
+Program (SNAP) aims to alleviate hunger and improve nutrition by providing participants with
+benefits to purchase foods and with nutrition education programs.
+The Food and Nutrition Service (FNS) of the U.S. Department of Agriculture (USDA) recognizes
+that strategies for improving the nutrition of SNAP participants should be scientifically-based and
+use valid and reliable information about their current dietary practices. This study was
+commissioned to provide such information. The study analyzed National Health and Nutrition
+Examination Survey (NHANES) data from 2007–2010, updating a previous study that analyzed
+1999–2004 NHANES data. The report provides information on the quality of SNAP participants’
+diets from multiple perspectives, including usual nutrient intakes and food consumption patterns.
+URL: https://fns-prod.azureedge.net/sites/default/files/ops/NHANES-SNAP07-10.pdf
+'File' Attachments: internal-pdf://0109631290/Condon et al. (2015).pdf
+
+
+Reference Type:  Journal Article
+Record Number: 438
+Author: Crews, D. C., Kuczmarski, M. F., Grubbs, V., Hedgeman, E., Shahinian, V. B., Evans, M. K., Zonderman, A. B., Burrows, N. R., Williams, D. E., Saran, R., Powe, N. R., Centers for Disease, Control and Prevention Chronic Kidney Disease Surveillance, Team
+Year: 2014
+Title: Effect of food insecurity on chronic kidney disease in lower-income Americans
+Journal: Am J Nephrol
+Volume: 39
+Issue: 1
+Pages: 27-35
+Short Title: Effect of food insecurity on chronic kidney disease in lower-income Americans
+Alternate Journal: American journal of nephrology
+ISSN: 1421-9670 (Electronic)
+0250-8095 (Linking)
+DOI: 10.1159/000357595
+PMCID: 3952065
+Accession Number: 24434743
+Keywords: Adult
+Cross-Sectional Studies
+Female
+Food
+Food Supply
+Glomerular Filtration Rate
+Humans
+Male
+Middle Aged
+Multivariate Analysis
+Nutrition Surveys
+Poverty
+Renal Insufficiency
+Residence Characteristics
+Surveys and Questionnaires
+United States
+Urban Population
+Young Adult
+NHANES-FSQ
+Analyzed
+NonE Tier 1
+Abstract: BACKGROUND: The relation of food insecurity (inability to acquire nutritionally adequate and safe foods) and chronic kidney disease (CKD) is unknown. We examined whether food insecurity is associated with prevalent CKD among lower-income individuals in both the general US adult population and an urban population. METHODS: We conducted cross-sectional analyses of lower-income participants of the National Health and Nutrition Examination Survey (NHANES) 2003-2008 (n = 9,126) and the Healthy Aging in Neighborhoods of Diversity across the Life Span (HANDLS) study (n = 1,239). Food insecurity was defined based on questionnaires and CKD was defined by reduced estimated glomerular filtration rate or albuminuria; adjustment was performed with multivariable logistic regression. RESULTS: In NHANES, the age-adjusted prevalence of CKD was 20.3, 17.6, and 15.7% for the high, marginal, and no food insecurity groups, respectively. Analyses adjusting for sociodemographics and smoking status revealed high food insecurity to be associated with greater odds of CKD only among participants with either diabetes (OR = 1.67, 95% CI: 1.14-2.45 comparing high to no food insecurity groups) or hypertension (OR = 1.37, 95% CI: 1.03-1.82). In HANDLS, the age-adjusted CKD prevalence was 5.9 and 4.6% for those with and without food insecurity, respectively (p = 0.33). Food insecurity was associated with a trend towards greater odds of CKD (OR = 1.46, 95% CI: 0.98-2.18) with no evidence of effect modification across diabetes, hypertension, or obesity subgroups. CONCLUSION: Food insecurity may contribute to disparities in kidney disease, especially among persons with diabetes or hypertension, and is worthy of further study.
+Notes: Crews, Deidra C
+Kuczmarski, Marie Fanelli
+Grubbs, Vanessa
+Hedgeman, Elizabeth
+Shahinian, Vahakn B
+Evans, Michele K
+Zonderman, Alan B
+Burrows, Nilka Rios
+Williams, Desmond E
+Saran, Rajiv
+Powe, Neil R
+eng
+1U58DP003839-01/DP/NCCDPHP CDC HHS/
+K23 DK097184/DK/NIDDK NIH HHS/
+R01 DK078124/DK/NIDDK NIH HHS/
+U58 DP003839/DP/NCCDPHP CDC HHS/
+K24 DK002643/DK/NIDDK NIH HHS/
+K23 DK093710/DK/NIDDK NIH HHS/
+R01 DK78124/DK/NIDDK NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, P.H.S.
+Switzerland
+2014/01/18 06:00
+Am J Nephrol. 2014;39(1):27-35. doi: 10.1159/000357595. Epub 2014 Jan 8.
+URL: http://www.ncbi.nlm.nih.gov/pubmed/24434743
+'File' Attachments: internal-pdf://3442114388/Crews et al. (2014).pdf
+Author Address: Division of Nephrology, Department of Medicine, Johns Hopkins Medical Institutions, Baltimore, Md., USA.
+
+

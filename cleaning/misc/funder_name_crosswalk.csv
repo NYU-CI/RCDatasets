@@ -1,0 +1,13 @@
+﻿if row['sheet_name'] =='Census Surveys':
+"        val = ""U.S. Census Bureau"""
+    elif row['sheet_name'] =='CES':
+"        val = ""Bureau of Labor Statistics"""
+    elif row['sheet_name'] =='CPS-FSS':
+"        val = [""Bureau of Labor Statistics"",""U.S. Census Bureau"",""U.S. Department of Agriculture""]"
+"    elif row['sheet_name'] in ['SCH MEALS DATA','SNAP Admin','Cost Est. Foodborne Illnesses','FDA-FSIS-AMS','FADS-LAFA','FARA','FICRCD-CSFII','FNS','FoodAPS']:"
+"        val = ""U.S. Department of Agriculture"""
+"    elif row['sheet_name'] in ['IRI','Nielsen','TD Linx']:"
+"        val = ""Nielsen"""
+    else:
+        val = row['sheet_name']
+    return val
