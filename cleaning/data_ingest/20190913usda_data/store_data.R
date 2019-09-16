@@ -24,8 +24,11 @@ insert_query = sprintf("INSERT INTO dataset_names (original_dataset_name, datase
 res <- dbSendQuery(con, insert_query)
 }
 
-a<-unique(head(final_dataset_df))
+a<-unique(final_dataset_df)
 insert_usda_dataset_names(a)
 
+
+data_to_push<-final_dataset_df %>% filter(!(original_dataset_name %in% ds_names$original_dataset_name))
+insert_usda_dataset_names(data_to_push)
 
 

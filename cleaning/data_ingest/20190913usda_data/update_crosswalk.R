@@ -11,17 +11,18 @@ con <-DBI::dbConnect(pgdrv,
                      password = 'rc_dumps')
 
 
-s_query<-"SELECT * FROM dataset_names;"
-res <- dbSendQuery(con, s_query)
-dbFetch(res)
 
+read_dataset_names<-function(con){
+  s_query<-"SELECT * FROM dataset_names;"
+  res <- dbSendQuery(con, s_query)
+  return(dbFetch(res))
+  
+}
 
 dataset_crosswalk <- read.table("/Users/sophierand/RCDatasets/dataset_name_crosswalk.csv", sep = ",", header = T,stringsAsFactors = F)
 dataset_crosswalk<-unique(dataset_crosswalk)
 
-
 insert_crosswalk_vals <-function(dataset_crosswalk){
-  
   the_vals<-paste0("(","'",dataset_crosswalk$canonical_name,"',"
                    ,"'",dataset_crosswalk$alt_name,"'"
                    ,")")
