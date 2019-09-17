@@ -55,8 +55,8 @@ CREATE TABLE adrf_metadata (
 drop table dataset_names
 CREATE TABLE dataset_names (
    dataset_name_id serial PRIMARY KEY,
-   original_dataset_name varchar ,
    dataset_name varchar ,
+   dataset_alias varchar,
    dataset_provider varchar  NOT NULL,
     date_inserted TIMESTAMPTZ NOT NULL DEFAULT NOW()
 
