@@ -11,6 +11,6 @@ date_inserted TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
 
 
-	INSERT INTO public.dataset_crosswalk(
+INSERT INTO public.dataset_crosswalk(
 	canonical_name, alt_name,data_provider) 
   SELECT title,alias,data_provider from adrf_metadata
