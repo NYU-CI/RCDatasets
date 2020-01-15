@@ -7732,6 +7732,13 @@
         "title": "USGS Sediment Data",
         "url": "https://cida.usgs.gov/sediment/",
         "description": "The USGS sediment data portal is designed to help users identify, access, and interpret U.S. Geological Survey suspended-sediment and related data. The portal allows users to view the location of sediment sites in the context of various geospatial data layers and provides tools to allow users to select sites of interest. Daily and/or discrete suspended sediment, streamflow, and related data can then be downloaded for the entire country or for user-selected sites."
-    }
+    },
+	{
+        "id": "dataset-722",
+        "provider": "provider-285",
+        "title": "Fluxnet Data",
+        "url": "https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=9",
+        "description": "FLUXNET is a global network of micrometeorological tower sites that use eddy covariance methods to measure the exchanges of carbon dioxide, water vapor, and energy between terrestrial ecosystems and the atmosphere. More than 500 tower sites around the world are operating on a long-term basis. The overarching goal of the FLUXNET data collection at ORNL DAAC is to provide information for validating remote sensing products for net primary productivity (npp), evaporation, and energy absorption."
+	}
 
 ]
