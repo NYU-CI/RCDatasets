@@ -7122,7 +7122,7 @@
             "LCAT"
         ],
         "provider": "provider-150",
-        "description": "NOAA\u2019s NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
+        "description": "NOAA's NWS implemented the new Local Climate Analysis Tool (LCAT) on 1 July 2013. The tool supports the delivery of climate services by quickly providing information to help with climate-sensitive decisions and to facilitate the development of local climate studies and assessments.",
         "url": "https://nws.weather.gov/lcat/home",
         "original": {
             "related_dataset": [
